@@ -87,4 +87,4 @@ Run the SQL setup script first to create the alzikrayat_db database and these ta
 
 ## Student Name
 
-Emam Elrashid Abdalgaer
+Eman Elrashid Abdalgader
